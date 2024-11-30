@@ -8,8 +8,3 @@ A simple command-line Python application to track and manage personal expenses. 
 - Generate a summary report of expenses by category.
 - Save and read data from a CSV file for persistence.
 
-## Usage
-Run `main.py` to start the program.
-
-```bash
-python main.py
